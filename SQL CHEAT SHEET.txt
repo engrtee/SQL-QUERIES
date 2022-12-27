@@ -1,4 +1,4 @@
-SQL CHEAT SHEET
+SQL QUERIES
 
 
 use adventureworks2014
